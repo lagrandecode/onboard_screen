@@ -11,7 +11,7 @@ class Screen {
     return [
       Screen("assets/images/img1.svg", "Order Anything", "Now You can order anything right from your mobile."),
       Screen("assets/images/img2.svg", "Quick Delivery", "Just send me, I will deliver it to you in no time."),
-      Screen("assets/images/img3.svg", "At your door step", "Pick up delivery at your door step and enjoy groceries."),
+      Screen("assets/images/img3.svg", "At Your Door Step", "Pick up delivery at your door step and enjoy groceries."),
     ];
   }
 }
